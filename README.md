@@ -13,18 +13,3 @@ Test Images for RT-DETR:
 <img width="1586" height="453" alt="RTDETR_Image2" src="https://github.com/user-attachments/assets/af1404e1-b983-4b58-af11-4e610e3f7610" />
 <img width="1522" height="755" alt="RTDETR_image1" src="https://github.com/user-attachments/assets/7d87c4e3-be27-4400-84b4-c3ea0a595eb5" />
 
-
----
-title: Rt Detr Street Obstacle Detection
-emoji: 🐢
-colorFrom: purple
-colorTo: gray
-sdk: gradio
-sdk_version: 6.19.0
-python_version: '3.13'
-app_file: app.py
-pinned: false
-short_description: Street Obstacles detection using RT-DETR
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
